@@ -1,4 +1,9 @@
-4 Member mini project:
+Mini project:
+Team members:
+Ruby Khadka
+Sakshi
+Sudeepthi
+Thrisha
 
 📩 AI-Based Spam Mail & Message Detection System
 
